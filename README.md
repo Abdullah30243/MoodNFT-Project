@@ -1,4 +1,4 @@
-# Foundry NFT
+# NFT-Project
 
  
 We go through creating 2 different kinds of NFTs.
