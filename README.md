@@ -16,23 +16,7 @@ We go through creating 2 different kinds of NFTs.
 </p>
 <br/>
 
-- [Foundry NFT](#foundry-nft)
-- [Getting Started](#getting-started)
-  - [Requirements](#requirements)
-  - [Quickstart](#quickstart)
-    - [Optional Gitpod](#optional-gitpod)
-- [Usage](#usage)
-  - [Start a local node](#start-a-local-node)
-  - [Deploy](#deploy)
-  - [Deploy - Other Network](#deploy---other-network)
-  - [Testing](#testing)
-    - [Test Coverage](#test-coverage)
-- [Deployment to a testnet or mainnet](#deployment-to-a-testnet-or-mainnet)
-  - [Scripts](#scripts)
-  - [Base64](#base64)
-  - [Estimate gas](#estimate-gas)
-- [Formatting](#formatting)
-- [Thank you!](#thank-you)
+ 
 
 # Getting Started
 
